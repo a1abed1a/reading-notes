@@ -9,12 +9,12 @@ Growth mindset is believing that your abilities can be developed through perseve
 
 You have to persevere, be smart and maintain a growth mindset.  
 
-| Fixed              | Faced with         | Growth             |
-| ------------------ | ------------------ | ------------------ |
-| Avoids             | Challenges         | Embraces           |
-| Loses focus        | Obstacles          | Presists           |
-| Ignores            | Criticism          | Learns from        |
-| Views as a threat  | Success of others  | Is inspired by     |
+Fixed              | Faced with         | Growth            
+------------------ | ------------------ | ------------------
+Avoids             | Challenges         | Embraces          
+Loses focus        | Obstacles          | Presists          
+Ignores            | Criticism          | Learns from       
+Views as a threat  | Success of others  | Is inspired by    
 ### At the end:
 - **Growth mindset** acheives mor and higher goals.
 - **Fixed mindset** fails to reach full potenial.
