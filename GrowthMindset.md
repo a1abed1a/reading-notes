@@ -15,6 +15,8 @@ Avoids | Challenges | Embraces
 Loses focus | Obstacles | Presists
 Ignores | Criticism | Learns from
 Views as a threat | Success of others | Is inspired by
+
+---
 ### At the end:
 - **Growth mindset** acheives mor and higher goals.
 - **Fixed mindset** fails to reach full potenial.
