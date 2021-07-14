@@ -9,3 +9,4 @@ Page | Link
 GrowthMindset | [GoToPage](https://a1abed1a.github.io/reading-notes/GrowthMindset)
 Read01 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read01)
 Read02 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read02)
+Read03 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read03)
