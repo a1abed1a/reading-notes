@@ -10,3 +10,4 @@ GrowthMindset | [GoToPage](https://a1abed1a.github.io/reading-notes/GrowthMindse
 Read01 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read01)
 Read02 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read02)
 Read03 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read03)
+Read04 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read04)
