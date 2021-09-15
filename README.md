@@ -45,4 +45,5 @@ Read-Class-01 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-0
 Read-Class-02 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-02)
 Read-Class-03 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-03)
 Read-Class-04 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-04)
+Read-Class-05 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-05)
 
