@@ -50,3 +50,4 @@ Read-Class-06 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-0
 Read-Class-07 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-07)
 Read-Class-08 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-08)
 Read-Class-09 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-09)
+Read-Class-10 | [GoToPage](https://a1abed1a.github.io/reading-notes/Read-Class-10)
